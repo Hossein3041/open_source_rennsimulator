@@ -1,0 +1,30 @@
+#Protokoll 09.04.26#
+
+- Wir haben das allgemeine Projekt besprochen, was die Idee dahinter ist und was 
+für Komponenten benötigt werden
+
+- Wir haben uns darüber unterhalten was Rekuperation ist und wie diese 
+realisierbar ist, dazu wäre eine Idee diese mit Prozentualer Stärke umzusetzen (Schaltwippen) (alte Schaltung verwenden) 
+
+Geld fängt an ab 800€
+Alles daruter ist "Grabbelkiste"
+
+Es geht im grunde um das Projekt eine eigene Steuereinheit für einen Umbau eines Oldtimers auf Elektro zu bauen.
+
+1x Spannungsmesser  -  Christin 
+1x Einparkhilfe   - Tjark 
+2x TORCS / Speed Dreams - Die Software anschauen - Noah - Marlon
+1x CAN BUS  - Kommt an - Diyar
+1x CAN BUS Logger - Schauen was es da gibt und wie Teuer es ist - Hossein
+
+
+Spannungsmesser: 
+DC-DC wandler kann schnell kaputt gehen, dafür den Spannungsmesser um dies dauerhaft zu überprüfen 400V bzw. 800V zu 12V Autobatterie
+
+
+Spannungswandler
+Spannungsteiler
+Spannungsstabilisator
+
+
+
