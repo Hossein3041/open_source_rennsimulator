@@ -1,21 +1,29 @@
 Vollständige Liste
 1x Arduino Uno oder Nano (Nano ist kompakter fürs Auto). (haben wir da soweit ich weiss)
-1x DC-DC Buck-Wandler 12V → 5V (mind. 1A, Eingangsspannung 6–36V, z.B. LM2596-Modul oder besser (automotive-tauglich)).   https://www.ebay.de/itm/165802546241?mkevt=1&mkcid=1&mkrid=707-53477-19255-0&toolid=20006&campid=5339123613&adtype=pla&loc_interest_ms=&loc_physical_ms=9068447&gad_source=1&gad_campaignid=22383173984&gbraid=0AAAAA9pdR-nTo-brMC27vSbp1AHllCZf9&gclid=EAIaIQobChMI_52e8bzvkwMV38h5BB2ighIKEAQYAyABEgIANfD_BwE
 1x KFZ-Sicherungshalter (für Flachsteckkontakte).   https://www.ebay.de/itm/326562418096?chn=ps&_ul=DE&norover=1&mkevt=1&mkrid=707-166974-037691-2&mkcid=2&mkscid=101&itemid=326562418096&targetid=2276391439863&device=c&mktype=pla&googleloc=9068447&poi=&campaignid=22518090405&mkgroupid=178507538825&rlsatarget=pla-2276391439863&abcId=10299836&merchantid=112038509&geoid=9068447&gad_source=1&gad_campaignid=22518090405&gbraid=0AAAAAD_G4xZH55lEGEfetkplpMlQMgGgR&gclid=EAIaIQobChMI9PbgrL3vkwMVUA8GAB0-1waVEAQYAyABEgKFyPD_BwE
 1x Sicherung 1A.    https://www.amazon.de/Stecksicherungen-Sicherungshalter-Flachsicherungen-Schmelzsicherung-Ersatzsicherungen/dp/B0D56WN4Y5/ref=asc_df_B0D56WN4Y5?mcid=f365fd4833c133c58919c86a8c6aafa0&th=1&tag=googshopde-21&linkCode=df0&hvadid=701306887566&hvpos=&hvnetw=g&hvrand=16727536173362836353&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068447&hvtargid=pla-2314265107107&hvocijid=16727536173362836353-B0D56WN4Y5-&hvexpln=0
 1x P-Kanal MOSFET IRF9540N (für Verpolschutz).  https://www.amazon.de/BOJACK-IRF9540-Transistoren-IRF9540N-Leistungs/dp/B086YW4TPD/ref=asc_df_B086YW4TPD?mcid=5c346abd3a5b360fafdc6474cdc6a41b&th=1&psc=1&tag=googshopde-21&linkCode=df0&hvadid=696321262544&hvpos=&hvnetw=g&hvrand=435837095665744055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068447&hvtargid=pla-1005983127973&psc=1&hvocijid=435837095665744055-B086YW4TPD-&hvexpln=0  (Oder Henrik fragen)
-2x Widerstand 10kOhm (einer für Verpolschutz, einer für Spannungsteiler).   (Henrik fragen der hat die da)
-1x Widerstand 4,7kOhm (für Spannungsteiler).   (Henrik fragen der hat die da)
+2x Widerstand 10kOhm (einer für Verpolschutz, einer für Spannungsteiler).
+1x Widerstand 4,7kOhm (für Spannungsteiler).   
 1x TVS-Diode P6KE15A oder ähnlich für 12V-Bordnetz.  https://www.amazon.de/Packung-50-P6KE15A-DO-204AC-Unidirektionaler/dp/B079KJCV76/ref=asc_df_B079KJCV76?mcid=9d71303027c83de6897667bbf25ab565&th=1&psc=1&tag=googshopde-21&linkCode=df0&hvadid=708057414238&hvpos=&hvnetw=g&hvrand=8925348767215652696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068447&hvtargid=pla-2270608248135&psc=1&hvocijid=8925348767215652696-B079KJCV76-&hvexpln=0
 1x 100nF Keramikkondensator (für Messfilter).  https://www.amazon.de/20er-Pack-CBB22-250V-100nF-Met-Polypropylen-Folienkondensator/dp/B0DCFV5PCN/ref=asc_df_B0DCFV5PCN?mcid=95478498e094310b985b69fa254f1475&th=1&tag=googshopde-21&linkCode=df0&hvadid=729156581205&hvpos=&hvnetw=g&hvrand=10651334802192395273&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068447&hvtargid=pla-2402441171160&hvocijid=10651334802192395273-B0DCFV5PCN-&hvexpln=0
 1x 470µF Elektrolytkondensator (am Wandler-Eingang).  https://www.amazon.de/Innfeeltech-Stück-Elektrolytkondensator-470uF-Aluminium-Radial-Elektrolytkondensatoren/dp/B0DFXRJ6F1/ref=asc_df_B0DFXRJ6F1?mcid=9ff235645d0235feb52b99991901edbc&th=1&tag=googshopde-21&linkCode=df0&hvadid=716092955199&hvpos=&hvnetw=g&hvrand=8532177208096900379&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068447&hvtargid=pla-2378761246252&hvocijid=8532177208096900379-B0DFXRJ6F1-&hvexpln=0
 1x 100µF Elektrolytkondensator (am 5V-Ausgang). https://www.amazon.de/Innfeeltech-Stück-Elektrolytkondensator-470uF-Aluminium-Radial-Elektrolytkondensatoren/dp/B0DBL12Z2Z/ref=asc_df_B0DFXRJ6F1?mcid=9ff235645d0235feb52b99991901edbc&th=1&tag=googshopde-21&linkCode=df0&hvadid=716092955199&hvpos=&hvnetw=g&hvrand=8532177208096900379&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068447&hvtargid=pla-2378761246252&hvocijid=8532177208096900379-B0DFXRJ6F1-&hvexpln=0
-3x LED (grün, gelb, rot, 5mm).  (hat Henrik da)
-3x Vorwiderstand 330Ohm (für LEDs). (hat Henrk da)
+3x LED (grün, gelb, rot, 5mm).  
+3x Vorwiderstand 330Ohm (für LEDs). 
 Kabel: 0,75mm² rot/schwarz für 12V (ca. 2m).  https://www.amazon.de/5-100m-Kabel-Zwillingslitze-schwarz-2-adrig/dp/B06XSJWGS4/ref=asc_df_B06XSJWGS4?mcid=cb323665ce8f33d5a7154fd3dcc80d91&th=1&tag=googshopde-21&linkCode=df0&hvadid=697081113775&hvpos=&hvnetw=g&hvrand=4388790602932805912&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068447&hvtargid=pla-2301282723011&hvocijid=4388790602932805912-B06XSJWGS4-&hvexpln=0
 1x Lochrasterplatine (klein, 5x7cm).  https://www.amazon.de/Streifenraster-Veroboard-Stripboard-Leiterplatte-Experiment/dp/B07QLH48QP/ref=asc_df_B07QLH48QP?mcid=023644ec62e43625b7457a44a27b7e51&th=1&psc=1&tag=googshopde-21&linkCode=df0&hvadid=769683241663&hvpos=&hvnetw=g&hvrand=13496238777842720093&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068447&hvtargid=pla-2321337534666&psc=1&hvocijid=13496238777842720093-B07QLH48QP-&hvexpln=0
 1x Gehäuse (wasserdicht, IP65, passend für Auto-Montage). (Evtl. 3D-Druck???) - Schauen wir denn 
 
 Verschraubungen: Aderendhülsen, Kabelbinder, Schrumpfschlauch. (Alles im nachhinein wenn alles Verlötet und getestet).
 
-Ca. 54€ Gesamtkosten.
+
+Ca. 50€ Gesamtkosten bei selbatbau. (Jedoch nur zum messen)
+
+1x DC-DC Buck-Wandler 12V → 5V (mind. 1A, Eingangsspannung 0.5-30V, (automotive-tauglich)).   https://www.ebay.de/itm/165802546241?mkevt=1&mkcid=1&mkrid=707-53477-19255-0&toolid=20006&campid=5339123613&adtype=pla&loc_interest_ms=&loc_physical_ms=9068447&gad_source=1&gad_campaignid=22383173984&gbraid=0AAAAA9pdR-nTo-brMC27vSbp1AHllCZf9&gclid=EAIaIQobChMI_52e8bzvkwMV38h5BB2ighIKEAQYAyABEgIANfD_BwE
+
+11,48€ Fertig kaufen.
+
+
+Oder Analog ausgang nutzen?
+
