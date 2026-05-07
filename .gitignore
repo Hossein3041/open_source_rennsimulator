@@ -1,0 +1,25 @@
+# Build-Dateien
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Qt / moc generierte Dateien
+moc_*.cpp
+moc_*.o
+moc_predefs.h
+
+# Kompilierte Programme
+can-cpp-new/dynamic
+
+# Build-Ordner
+build/
+cmake-build-*/
+target/
+
+# Editor / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
